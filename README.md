@@ -1,6 +1,6 @@
 
-# The video was submitted on brightspace and uploaded to youtube 
-# youtube link: https://youtu.be/PKKo2CNuOPs
+### The video was submitted on Brightspace and uploaded to youtube 
+### youtube link: https://youtu.be/PKKo2CNuOPs
 # AI Camera Stabilisation for Virtual Production
 
 This project uses deep learning to smooth out simulated camera motion, with a focus on real-time application in virtual production environments.
