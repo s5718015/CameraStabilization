@@ -93,7 +93,7 @@ This simulates real-time frame-by-frame smoothing (print to terminal).
 
 The full methodology and system evaluation are in:
 - `Report_Video_Graphs/CameraStabilizationReport.pdf`
-- `Report_Video_Graphs/VideoDemo.mp4`
+- `Link on top of page`
 
 ---
 
